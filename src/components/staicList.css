@@ -1,0 +1,39 @@
+.styling1{
+    color: black;
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card{
+    width: 25%;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border-width: 2px;
+   border-style: solid;
+   border-color: #61dafb;
+    margin: 10px;
+}
+
+.subject{
+    color: black;
+    font-family:serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.body{
+    color: black;
+    font-family:serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.count{
+    color: black;
+    font-family: roboto;
+    font-size: 17px;
+    font-weight: bold;
+}
